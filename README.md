@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ivan Petrovic</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="center">Ivan Petrovic</h1>
 
 - 🔭 I’m currently working on **Racunarski fakultet | Belgrade**
-
-- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **mr.petrovicivan@gmail.com**
 

@@ -7,8 +7,7 @@
 <script type="text/javascript">
 
 const ivan = {
-    languages: ["Java", "Python", "C"],
-    askMeAbout: ["Software Engineering", "Web Development", "Databases", "Big Data"],
+
     technologies: {
 
         softwareEngineering: {
@@ -21,7 +20,7 @@ const ivan = {
             frameworks: ["SpringBoot", "Node.js (Express.js)"],
             frontEnd: ["Angular.js", "Vue.js"],
             languages: ["TypeScript", "JavaScript", "PHP"],
-            css: ["Bootstrap", "TailwindCSS"],
+            css: ["Bootstrap"],
             apiTesting: ["Postman"],
         },
 

@@ -42,8 +42,6 @@ const ivan = {
             
         },
     },
-
-    funFact: "I'm a final year student with just 3 exams left, and I'm ready to conquer the tech world!",
 };
 
 console.log("Welcome to Ivan's GitHub profile!");
